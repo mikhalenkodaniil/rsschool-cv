@@ -27,4 +27,4 @@ BSU (Not finishet)
 
 ## Contacts:
 
-***mikhalenko.daniil@gmail.com***
+[Почта](mikhalenko.daniil@gmail.com)
