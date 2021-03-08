@@ -1,19 +1,13 @@
 # Daniil Mikhalenko
 
-## mikhalenko.daniil@gmail.com
-
-## Summary 
-
--
-
 ## Technical skills
 
--**Programmin languages:** c++, matlab.
+- **Programmin languages:** c++, matlab.
 - **Foreign languages:** English.
 
 ## Code Examples
 
-```
+```javascript
 let res = [];
   for (let i = 0; i < str.length; i++){
     if (str[i]['country']=== undefined){
@@ -30,3 +24,7 @@ let res = [];
 **Faculty of Radiophysics and Computer Technologies**
 
 BSU (Not finishet)
+
+## Contacts:
+
+***mikhalenko.daniil@gmail.com***
