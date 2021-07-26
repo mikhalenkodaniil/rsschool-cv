@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+    width: fit-content;
+    height: 10%;
+    margin: auto;
+    padding: 20px 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+.ava{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    margin-left: 0;
+    margin-right: 0;
+}
+header{
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
